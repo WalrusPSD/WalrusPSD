@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌏Aspiring Software Engineer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts @ www.zahir.me</p>
+<p align="left">🌏Designer/Developer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts @ www.zahir.me</p>
 
 ###
 
