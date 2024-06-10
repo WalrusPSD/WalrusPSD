@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌏Aspiring Software Engineer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts on my website: www.zahir.me</p>
+<p align="left">🌏Aspiring Software Engineer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts @ www.zahir.me</p>
 
 ###
 
@@ -14,11 +14,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/qt0gjdy4ofcv6zvspqywx3q0o">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qt0gjdy4ofcv6zvspqywx3q0o&count=1&unique=false" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://linktr.ee/WalrusPSD" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zahirhassan-cs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="be.net/walruspsd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
 
@@ -39,20 +43,16 @@
 ###
 
 <div align="left">
-  <a href="https://linktr.ee/WalrusPSD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zahirhassan-cs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="be.net/walruspsd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
 </div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/qt0gjdy4ofcv6zvspqywx3q0o">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qt0gjdy4ofcv6zvspqywx3q0o&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
