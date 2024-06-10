@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">🌏Developer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts @ www.zahir.me</p>
+<p align="left">🌏Aspiring Software Engineer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts @ www.zahir.me</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WalrusPSD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WalrusPSD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=true&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=WalrusPSD&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WalrusPSD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WalrusPSD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&custom_title=Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=WalrusPSD&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
