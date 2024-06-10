@@ -14,6 +14,16 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/qt0gjdy4ofcv6zvspqywx3q0o">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qt0gjdy4ofcv6zvspqywx3q0o&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -39,12 +49,6 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/WalrusPSD/WalrusPSD/output/snake.svg" alt="Snake animation" />
 
 ###
 
