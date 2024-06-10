@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hey, I'm Zahir!</h2>
+<h2 align="center">👋 Hey, I'm Zahir!</h2>
 
 ###
 
-<p align="left">🌏Aspiring Software Engineer based in Melbourne<br>🎓 Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠 Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts: <br>[My Website](https://zahir.me)</p>
+<p align="left">🌏Aspiring Software Engineer based in Melbourne<br>🎓Studying Computer Science (Advanced) and Philosophy at Monash University <br>🧠Currently learning web development techniques with Next.js.<br>📝Keep up with my latest projects and blog posts on my website: www.zahir.me</p>
 
 ###
 
@@ -29,9 +29,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <a href="https://linktr.ee/WalrusPSD" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zahirhassan-cs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="be.net/walruspsd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
 </div>
 
 ###
