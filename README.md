@@ -13,7 +13,7 @@
 <p align="left">
   🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a> / A duolingo for finance that learns your spending patterns and helps you build better habits.
   <br>
-  🚀 Sign up for the Nudge waitlist:
+  🚀 Sign up for the Nudge waitlist!
   <a href="https://nudgeapp.pro/">Click here</a>
   <br>
   💼 Designer @ <a href="https://www.linkedin.com/company/nudgefinance/">NextGen Ventures</a> / previously interned in both Product Designer and Software Engineer roles.
