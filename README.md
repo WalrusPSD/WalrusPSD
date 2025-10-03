@@ -16,7 +16,7 @@
   🚀 Sign up for the Nudge waitlist!
   <a href="https://nudgeapp.pro/">Click here</a>
   <br>
-  💼 Designer @ <a href="https://www.linkedin.com/company/nudgefinance/">NextGen Ventures</a> / previously interned in both Product Designer and Software Engineer roles.
+  💼 Designer @ <a href="https://www.linkedin.com/company/nudgefinance/">NextGen Ventures</a> / Previously interned in both Product Designer and Software Engineer roles.
   <br>
   📚 Learning React Native & C# with Unity
 </p>
