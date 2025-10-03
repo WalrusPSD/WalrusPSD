@@ -10,7 +10,16 @@
 
 ###
 
-<p align="left">🔭 Building @ Nudge,  a duolingo for finance that learns your spending patterns and helps you build better habits. <br>Sign up for the Nudge waitlist: [Click here.](https://nudgeapp.pro/)<br>💼 Designer @ NextGen Ventures, previously interned in both Product Designer and Software Engineer roles.<br>📚 Learning React Native & C# with Unity</p>
+<p align="left">
+  🔭 Building @ <a href="https://nudgeapp.pro/">Nudge</a>, a duolingo for finance that learns your spending patterns and helps you build better habits.
+  <br>
+  🚀 Sign up for the Nudge waitlist:
+  <a href="https://nudgeapp.pro/">Click here</a>
+  <br>
+  💼 Designer @ NextGen Ventures, previously interned in both Product Designer and Software Engineer roles.
+  <br>
+  📚 Learning React Native & C# with Unity
+</p>
 
 ###
 
