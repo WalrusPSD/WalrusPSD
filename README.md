@@ -99,8 +99,6 @@
 
 ###
 
-<h2 align="left">Music :)</h2>
-
 ###
 
 <div align="left">
