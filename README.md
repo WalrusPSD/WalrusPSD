@@ -17,7 +17,7 @@
   <a href="https://nudgeapp.pro/">Click here</a>
   <br>
   
-  💼 Designer @ <a href="https://www.linkedin.com/company/nudgefinance/">NextGen Ventures</a> / previously interned in both Product Designer and Software Engineer roles.
+  💼 Designer @ <a href="https://www.linkedin.com/company/nextgen-ventur3s/posts/?feedView=all/">NextGen Ventures</a> / previously interned in both Product Designer and Software Engineer roles.
   <br>
   📚 Learning React Native & C# with Unity
 </p>
