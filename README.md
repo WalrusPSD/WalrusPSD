@@ -11,12 +11,12 @@
 ###
 
 <p align="left">
-  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a> / A duolingo for finance that learns your spending patterns and helps you build better habits.
+  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a> / a duolingo for finance that learns your spending patterns and helps you build better habits.
   <br>
   🚀 Sign up for the Nudge waitlist!
   <a href="https://nudgeapp.pro/">Click here</a>
   <br>
-  💼 Designer @ <a href="https://www.linkedin.com/company/nudgefinance/">NextGen Ventures</a> / Previously interned in both Product Designer and Software Engineer roles.
+  💼 Designer @ <a href="https://www.linkedin.com/company/nudgefinance/">NextGen Ventures</a> / previously interned in both Product Designer and Software Engineer roles.
   <br>
   📚 Learning React Native & C# with Unity
 </p>
