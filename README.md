@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently in my final semester studying Advanced Computer Science & Philosophy @ Monash</p>
+<p align="left">Comp Sci Grad @ Monash</p>
 
 ###
 
