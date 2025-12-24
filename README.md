@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Comp Sci Grad @ Monash</p>
+<p align="left">CS & Philosophy Grad @ Monash</p>
 
 ###
 
