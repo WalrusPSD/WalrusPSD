@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a> / a duolingo for finance that learns your spending patterns and helps you build better habits.
+  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a> - an app to stop you from impulse spending.
   <br>
   🚀 Sign up for the Nudge waitlist!
   <a href="https://nudgeapp.pro/">Click here</a>
