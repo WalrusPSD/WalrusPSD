@@ -1,22 +1,13 @@
-<h2 align="left">Hey 👋 I'm Zahir</h2>
+<h2 align="left">Hey I'm Zahir</h2>
 
 ###
-
 <p align="left">CS & Philosophy Grad @ Monash</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">
   🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a>, an app to stop you from impulse spending.
   <br>
   🚀 Sign up for the Nudge waitlist!
   <a href="https://nudgesavings.com/">Click here</a>
   <br>
-
 ###
 
 <h2 align="left">Contact</h2>
