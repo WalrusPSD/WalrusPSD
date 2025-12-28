@@ -1,9 +1,9 @@
 <h2 align="left">Hey I'm Zahir.</h2>
 
 ###
-<p align="left">CS & Philosophy Graduate @ Monash</p>
+<p align="left">Computer Science & Philosophy Graduate @ Monash</p>
 <p align="left">
-  Building Nudge</a>, an app to stop you from impulse spending.
+  Currently full-time building Nudge</a>, an app to stop you from impulse spending.
   <br>
   Sign up for the Nudge waitlist!
   <a href="https://nudgesavings.com/">Click here</a>
