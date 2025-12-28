@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a> - an app to stop you from impulse spending.
+  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a>, an app to stop you from impulse spending.
   <br>
   🚀 Sign up for the Nudge waitlist!
-  <a href="https://nudgeapp.pro/">Click here</a>
+  <a href="https://nudgesavings.com/">Click here</a>
   <br>
 
 ###
@@ -26,9 +26,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/zahirhassan-cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/walruspsd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
 </div>
 
