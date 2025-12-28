@@ -3,7 +3,7 @@
 ###
 <p align="left">CS & Philosophy Graduate @ Monash</p>
 <p align="left">
-  Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a>, an app to stop you from impulse spending.
+  Building Nudge</a>, an app to stop you from impulse spending.
   <br>
   Sign up for the Nudge waitlist!
   <a href="https://nudgesavings.com/">Click here</a>
