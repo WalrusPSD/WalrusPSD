@@ -3,18 +3,10 @@
 ###
 <p align="left">CS & Philosophy Grad @ Monash</p>
 <p align="left">
-  🔭 Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a>, an app to stop you from impulse spending.
+  Building @ <a href="https://www.linkedin.com/company/nudgefinance/">Nudge</a>, an app to stop you from impulse spending.
   <br>
-  🚀 Sign up for the Nudge waitlist!
+  Sign up for the Nudge waitlist!
   <a href="https://nudgesavings.com/">Click here</a>
   <br>
-###
-
-<h2 align="left">Contact</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/zahirhassan-cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
+  <a href="https://linkedin.com/in/zahirhassan-cs/">Connect with me!</a>
 ###
