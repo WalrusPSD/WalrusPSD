@@ -2,7 +2,6 @@
 
 ###
 <p align="left">Computer Science & Philosophy Graduate @ Monash</p>
-<p align="left">
   Currently full-time building Nudge</a>, an app to stop you from impulse spending.
   <br>
   Sign up for the Nudge waitlist!
